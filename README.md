@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Arjun
 
 Final Year student @ college of engineering, Chennai
-<img align="right" width="370" height="290" src="https://raw.githubusercontent.com/arjunsampath-33/photos/refs/heads/main/fhhp3exkgt7p3lfnqz0p.png?token=GHSAT0AAAAAADGBELYI6IS22C5N425N2PZS2CWN26A">
+
 - 🤖 Learning PLC Programming (Allen-Bradley, Schneider, Siemens, GE fanuc)
 - 🖥️ Exploring SCADA and HMI systems
 - ⚙️ Working with VFDs and control logic
