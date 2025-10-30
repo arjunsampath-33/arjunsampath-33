@@ -2,7 +2,7 @@
 
 Final Year student @ college of engineering, Chennai
 
-- 🔧 Working with Arduino, ESP32, and wireless modules (NRF24L01, FS1000A) to build real-time embedded and automation systems.
+- 🔧 Worked with Arduino, ESP32, and wireless modules (NRF24L01, FS1000A) to build real-time embedded and automation systems.
 - 🤖 Learning PLC Programming (Allen-Bradley, Schneider, Siemens, GE fanuc)
 - 🖥️ Exploring SCADA and HMI systems
 - ⚙️ Working with VFDs and control logic
